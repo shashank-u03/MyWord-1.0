@@ -10,3 +10,5 @@ Advanced Features:-
 -Find and replace text in your file.
 -Save your file as a .docx/.txt file to designated folder.
 -Insert an image into your file at any position.
+
+Link to download the Windows Installer:- https://drive.google.com/file/d/1oHjkP3bZokicvcR6eR7gMsGUEJnwaRzV/view?usp=share_link
